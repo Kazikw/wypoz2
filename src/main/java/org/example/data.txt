@@ -1,0 +1,3 @@
+CAR;Toyota;Corolla;2018;20000;ABC123;false
+MOTOR;Harley Davidson;Street Glide;2020;25000;XYZ456;false;false
+CAR;Ford;Focus;2015;15000;DEF789;false
